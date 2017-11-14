@@ -1,0 +1,22 @@
+HARDWARE REQUIREMENTS:->
+
+Processor:
+ Intel dual core or above
+
+RAM:
+ 1 GB RAM  or above
+
+Hard Disk:
+ 20 GB hard disk or above
+
+SOFTWARE REQUIREMENTS:->
+
+Language:
+ J2ee(MVC)
+
+Design:
+HTML,CSS
+
+Database:
+ My SQL
+
